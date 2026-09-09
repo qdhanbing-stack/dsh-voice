@@ -2,3 +2,6 @@ node_modules/
 *.log
 .DS_Store
 Thumbs.db
+
+.ssh/
+known_hosts
